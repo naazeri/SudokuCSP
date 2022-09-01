@@ -1,8 +1,4 @@
 # SudokuCSP
-پروژه سودوکو هوش مصنویی استاد امیناین و استاد فدایی
+Solve Sudoku with CSP algorithm
 
-راهنما
-
-فایل اصلی پروژه 
-sudoku.cpp 
-هست
+Main file: sudoku.cpp
